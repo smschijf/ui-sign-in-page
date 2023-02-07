@@ -1,0 +1,7 @@
+Benodigde elementen inlogpagina:
+
+- login titel
+- username/email input field
+- password input field
+- submit/login button
+- register/sign up button
